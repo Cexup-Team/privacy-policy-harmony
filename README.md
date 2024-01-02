@@ -1,8 +1,8 @@
 <center><b>KEBIJAKAN PRIVASI</b></center><br>
-<center><b>Harmony</b></center><br>
+<center><b>Harmoni</b></center><br>
 <center>Mulai dari 9 September 2023</center>
 
-Kebijakan privasi ini (“Kebijakan Privasi”) akan menjelaskan bagaimana Harmony (“Kami”), memperoleh, mengumpulkan, menggunakan, menampilkan, mengumumkan, mengungkapkan, memproses, membukakan akses, menyimpan, mengirim, memberi, mengalihkan, mengolah, mengelola, memusnahkan dan melindungi informasi dan data pribadi (secara bersama-sama, “Pemanfaatan”) yang anda sebagai pengguna (“Anda”) Aplikasi (sebagaimana didefinisikan di bawah) berikan sebagaimana diminta maupun pada saat menggunakan Aplikasi (“Data Pribadi”). Perlu dicatat bahwa Data Pribadi di sini tidak termasuk Data Pribadi yang telah tersedia di domain publik.
+Kebijakan privasi ini (“Kebijakan Privasi”) akan menjelaskan bagaimana Harmoni (“Kami”), memperoleh, mengumpulkan, menggunakan, menampilkan, mengumumkan, mengungkapkan, memproses, membukakan akses, menyimpan, mengirim, memberi, mengalihkan, mengolah, mengelola, memusnahkan dan melindungi informasi dan data pribadi (secara bersama-sama, “Pemanfaatan”) yang anda sebagai pengguna (“Anda”) Aplikasi (sebagaimana didefinisikan di bawah) berikan sebagaimana diminta maupun pada saat menggunakan Aplikasi (“Data Pribadi”). Perlu dicatat bahwa Data Pribadi di sini tidak termasuk Data Pribadi yang telah tersedia di domain publik.
 
 Kebijakan Privasi ini merupakan bagian dari Syarat dan Ketentuan Penggunaan (“Ketentuan Penggunaan”) Kami. Penggunaan Aplikasi dan setiap fitur dan/atau layanan yang tersedia dalam Aplikasi (“Layanan”) merupakan bentuk persetujuan anda terhadap Ketentuan Penggunaan dan Kebijakan Privasi tersebut. Oleh karena itu, Anda perlu untuk membaca Kebijakan Privasi ini dengan saksama untuk memastikan bahwa Anda memahaminya sepenuhnya sebelum mendaftar, mengakses dan/atau menggunakan Aplikasi dan Layanan Kami.
 
@@ -103,7 +103,7 @@ Pemantauan Lokasi anda dapat berjalan dengan syarat dan ketentuannya,  yaitu :
 
 Anda dapat menghapus Akun setelah menyetujui Syarat & ketentuannya, yaitu :
 
--   Penghapusan Akun dapat dilakukan Pemilik Akun dengan menggunakan fitur Hapus Akun pada Aplikasi Harmony , dengan cara
+-   Penghapusan Akun dapat dilakukan Pemilik Akun dengan menggunakan fitur Hapus Akun pada Aplikasi Harmoni , dengan cara
 
 -   Buka Profile
 -   Pilih More
@@ -111,24 +111,24 @@ Anda dapat menghapus Akun setelah menyetujui Syarat & ketentuannya, yaitu :
 -   Pilih Delete Account
 
 -   Pemilik Akun yang masih memiliki transaksi berjalan maka penghapusan akun tidak dapat dilakukan.
--   Permintaan penghapusan akun yang sudah diproses tidak dapat dibatalkan kembali, dan Harmony berhak menolak pengajuan penghapusan akun tersebut dengan atau tanpa alasan penolakan.
--   Pengguna diwajibkan untuk tidak melakukan transaksi atau aktivitas apapun pada Aplikasi Harmony saat permintaan penghapusan akun sedang diproses.
+-   Permintaan penghapusan akun yang sudah diproses tidak dapat dibatalkan kembali, dan Harmoni berhak menolak pengajuan penghapusan akun tersebut dengan atau tanpa alasan penolakan.
+-   Pengguna diwajibkan untuk tidak melakukan transaksi atau aktivitas apapun pada Aplikasi Harmoni saat permintaan penghapusan akun sedang diproses.
 -   Proses penghapusan akun akan dilakukan maksimal dalam 30x24 jam hari kerja.
--   Jika terdapat transaksi dan aktivitas pada Aplikasi Harmony saat permintaan penghapusan Akun sedang diproses, maka Harmony berhak menolak permintaan penghapusan Akun dan Pengguna dapat melakukan peninjauan kembali.
--   Apabila pengajuan penghapusan Akun pengguna ditolak dengan alasan masih terdapat transaksi pada Aplikasi Harmony , maka Pengguna wajib menyelesaikan transaksi yang masih berjalan terlebih dahulu kemudian dapat melanjutkan proses permintaan penghapusan Akun kembali setelah tidak terdapat transaksi yang masih berjalan. Dalam hal pengajuan penghapusan akun ditolak dan tidak terdapat respon dari Pengguna untuk menindaklanjuti prosesnya dalam jangka waktu 30 (tiga puluh) hari, maka proses pengajuan yang sudah berjalan tidak dapat dilanjutkan dan Pengguna harus melakukan proses pengajuan dari awal melalui Aplikasi.
+-   Jika terdapat transaksi dan aktivitas pada Aplikasi Harmoni saat permintaan penghapusan Akun sedang diproses, maka Harmoni berhak menolak permintaan penghapusan Akun dan Pengguna dapat melakukan peninjauan kembali.
+-   Apabila pengajuan penghapusan Akun pengguna ditolak dengan alasan masih terdapat transaksi pada Aplikasi Harmoni , maka Pengguna wajib menyelesaikan transaksi yang masih berjalan terlebih dahulu kemudian dapat melanjutkan proses permintaan penghapusan Akun kembali setelah tidak terdapat transaksi yang masih berjalan. Dalam hal pengajuan penghapusan akun ditolak dan tidak terdapat respon dari Pengguna untuk menindaklanjuti prosesnya dalam jangka waktu 30 (tiga puluh) hari, maka proses pengajuan yang sudah berjalan tidak dapat dilanjutkan dan Pengguna harus melakukan proses pengajuan dari awal melalui Aplikasi.
 -   Penghapusan Akun menyebabkan data pengguna terhapus dan tidak dapat dikembalikan dengan permintaan dan alasan apapun.
--   Saat permintaan penghapusan Akun telah disetujui dan dilakukan penghapusan, Harmony berhak menyimpan data tersebut selama masa retensi yang telah ditetapkan oleh Harmony .
+-   Saat permintaan penghapusan Akun telah disetujui dan dilakukan penghapusan, Harmoni berhak menyimpan data tersebut selama masa retensi yang telah ditetapkan oleh Harmoni .
 -   Sebagai konsekuensi penghapusan Akun, pengguna tidak dapat membuat akun kembali dengan data yang sama dengan sebelumnya.
--   Setelah Akun dihapus oleh Harmony , Pengguna akan otomatis logout dan tidak dapat login kembali pada akun Harmony
--   Syarat dan Ketentuan Penghapusan Akun ini merupakan bagian tak terpisahkan dari Syarat dan Ketentuan Harmony dan Kebijakan Privasi Harmony yang sewaktu-waktu dapat diubah oleh Harmony tanpa pemberitahuan sebelumnya.
--   Dengan melakukan penghapusan Akun maka Pengguna dinyatakan telah membaca dan menyetujui syarat dan ketentuan penghapusan Akun dan Kebijakan Privasi Harmony .
--   Harmony (termasuk perusahaan terafiliasi, direktur, komisaris, pejabat, serta seluruh karyawan) tidak bertanggung jawab atas kerugian yang dialami oleh Pengguna akibat dari penghapusan Akun ini.
+-   Setelah Akun dihapus oleh Harmoni , Pengguna akan otomatis logout dan tidak dapat login kembali pada akun Harmoni
+-   Syarat dan Ketentuan Penghapusan Akun ini merupakan bagian tak terpisahkan dari Syarat dan Ketentuan Harmoni dan Kebijakan Privasi Harmoni yang sewaktu-waktu dapat diubah oleh Harmoni tanpa pemberitahuan sebelumnya.
+-   Dengan melakukan penghapusan Akun maka Pengguna dinyatakan telah membaca dan menyetujui syarat dan ketentuan penghapusan Akun dan Kebijakan Privasi Harmoni .
+-   Harmoni (termasuk perusahaan terafiliasi, direktur, komisaris, pejabat, serta seluruh karyawan) tidak bertanggung jawab atas kerugian yang dialami oleh Pengguna akibat dari penghapusan Akun ini.
 
   
 
 -   Pertanyaan, keluhan dan kontak
 
-Jika Anda memiliki pertanyaan tentang kebijakan kerahasiaan ini, peraturan-peraturan Kami, hak Anda, dan hubungan Anda dengan Aplikasi, silakan mengirim surat elektronik Kami di: help@harmony.com atau call center Kami di 08 1111 – 33 9 66.
+Jika Anda memiliki pertanyaan tentang kebijakan kerahasiaan ini, peraturan-peraturan Kami, hak Anda, dan hubungan Anda dengan Aplikasi, silakan mengirim surat elektronik Kami di: rizza.virtual@gmail.com atau call center Kami di 08 1111 – 33 9 66.
 
   
 
